@@ -42,5 +42,6 @@ class OpenCommand extends Command
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         Open::open($input->getArgument('path'), $input->getArgument('app'));
+        return 0;
     }
 }

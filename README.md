@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-$ composer require florianv/open
+$ composer require likesistemas/open
 ```
 
 ## Usage
@@ -42,7 +42,7 @@ $ php bin/open http://google.com firefox
 
 ## License
 
-[MIT](https://github.com/florianv/open/blob/master/LICENSE)
+[MIT](https://github.com/likesistemas/open/blob/master/LICENSE)
 
-[version-url]: https://packagist.org/packages/florianv/open
-[version-image]: http://img.shields.io/packagist/v/florianv/open.svg?style=flat
+[version-url]: https://packagist.org/packages/likesistemas/open
+[version-image]: http://img.shields.io/packagist/v/likesistemas/open.svg?style=flat
